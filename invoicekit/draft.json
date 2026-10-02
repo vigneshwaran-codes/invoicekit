@@ -1,0 +1,29 @@
+{
+  "id": "INV-1790792977843",
+  "status": "ISSUED",
+  "clientId": "",
+  "clientName": "V\nNew Street\nv@gmail.com",
+  "currency": "INR",
+  "items": [
+    {
+      "description": "Website development",
+      "quantity": 12,
+      "price": 300
+    }
+  ],
+  "discount": {
+    "type": "fixed",
+    "value": 0
+  },
+  "taxConfig": {
+    "applyGST": false,
+    "isInterState": false,
+    "rate": 0
+  },
+  "paymentTerms": {
+    "type": "net",
+    "days": 30
+  },
+  "templateId": "minimal",
+  "dueDate": "2026-09-30T18:29:37.843Z"
+}
